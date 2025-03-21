@@ -16,7 +16,8 @@
 - ORM 사용 가능합니다. (TypeORM, Sequelize)
 
 ## 제출 방법
-본인의 GitHub 계정에 리포지토리를 생성하여 이 리포지토리에 적힌 요구 사항대로 서버를 구현하여 리포지토리 URL 주소를 recruit@fetching.co.kr로 이름과 함께 전송해주세요
+- 본인의 GitHub 계정에 리포지토리를 생성하여 이 리포지토리에 적힌 요구 사항대로 서버를 구현합니다.
+- 생성한 리포지토리 URL 주소를 recruit@fetching.co.kr로 본인의 이름과 함께 전송해주세요
 
 ## 목적
 - RESTful API에 대한 이해도 검증
